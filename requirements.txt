@@ -1,0 +1,9 @@
+ipykernel==6.15.2
+numpy==1.23.2
+pandas==1.4.4
+pyodbc==4.0.32
+sqlalchemy==1.4.36
+pathlib2==2.3.7
+toml==0.10.2
+nbformat==5.4.0
+openpyxl==3.0.9

@@ -1,0 +1,13 @@
+project_name = "NHS_Staff_Earnings"
+server = 'xxx'
+database = 'xxx'
+
+START_YEAR = 'yyyy' #i.e. year before publication year to allow data extraction
+YEAR = 'yyyy' #i.e. year publication relates to
+MONTHS = ['mm','mm','mm'] #i.e. the 3 months of the publication quarter you are running data for
+END_MONTH = 'mm' #i.e. the last month of the publication quarter you are running data for
+USER = 'xx' #i.e. complete this with your initials while we are testing code during development
+
+BASE_PATH = 'xxx'
+OUTPUT_PATH = 'xxx'
+log_dir = 'xxx'
